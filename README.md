@@ -1,10 +1,7 @@
-# Data Engineering Portfolio
-**Jesus** | MSBA Student, University of Miami  
-**Target Role:** Data Engineering
+# 🎯 About Me
+**Jesus Tuñon** | MSBA Student, University of Miami  
 
 ---
-
-## 🎯 About Me
 
 I'm a systems thinker passionate about building data infrastructure at scale. My goal is to create production-ready pipelines that power analytics and drive business decisions.
 
